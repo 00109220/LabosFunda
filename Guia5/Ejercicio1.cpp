@@ -2,6 +2,7 @@
 using namespace std;
 int main(){
 int num1, num2, residuo, mcd;
+
 //Encontrar el MCD de dos numeros mediante el metodo de Euclides
     cout<<"Encontrar el MCD de dos numeros enteros"<<endl;
     cout<<"Ingresa el primero numero: ";
