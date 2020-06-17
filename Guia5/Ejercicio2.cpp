@@ -21,7 +21,6 @@ int main(){
     }}}
     
     cout<<"La hora con un segundo agregado es: "<<hora<<c<<minuto<<c<<segundo;
-    
 
     return 0;
 }

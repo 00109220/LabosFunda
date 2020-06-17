@@ -30,6 +30,7 @@ if(dia>diasmes(mes, year)){
         mes=1;
         year++;
     }
+    
 }
 cout<<"La fecha es: "<<dia<<barra<<mes<<barra<<year;
 return 0;

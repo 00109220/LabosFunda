@@ -19,6 +19,5 @@ int num1, num2, residuo, mcd;
         else mcd= num2;
     } while (residuo != 0);
     cout<<"El MCD de los dos numeros es: "<<mcd;
-    
     return 0;
 }

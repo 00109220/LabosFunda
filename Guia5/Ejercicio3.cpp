@@ -21,8 +21,7 @@ using namespace std;
         if (valor){
             cout<< "El año es bisiesto"<< endl;
         }else{
-            cout<< "El año no es bisiesto"<< endl; 
-        
+            cout<< "El año no es bisiesto"<< endl;  
     }
     return 0;
 }
