@@ -1,0 +1,36 @@
+I. Preguntas conceptuales.
+
+1.  Explique la diferencia entre un registro y una estructura de datos.
+
+Un registro es un tipo de dato estructurado por varios elementos, los cuales están relacionados y pueden ser de tipo entero, real, caracteres, string. Estos elementos son llamados campos.
+Y la estructura de datos se puede entender como un tipo de dato compuesto donde permite almacenar de manera ordenada una serie de valores dados en una misma variable.
+La diferencia es que el registro se encuentra dentro de una estructura de datos, ya que el registro eso es, una estructura.
+
+2. Explique la diferencia entre la indirección y la desreferencia. Dé un ejemplo.
+En indirección cuando se declara un puntero con “*” indica que dicha variable se utilizara como puntero, es decir, se usara para almacenar la dirección en memoria de otra variable.
+En desreferencia se utiliza junto a un puntero ya declarado devuelve el valor contenido en la dirección apuntada por dicho puntero.
+
+II. Análisis de código.
+
+1. ¿Cuál función escogió usted? 
+Función recursiva: Torres de Hanoi
+
+2. ¿Cuántos casos base posee? 
+Posee 1 caso base
+
+3. ¿Cuántos casos recursivos posee? 
+Posee 2 casos recursivos
+
+4. ¿Qué tipo de recursión utiliza?
+Recursión lineal final
+
+
+V. Pregunta extra 
+
+1. Explique qué es Git y porqué es útil en la programación. 
+Git es un sistema de control de versiones que nos sirve para poder trabajar en equipo de una manera más ordenada y simple sin necesidad de estar junto con las personas que se esté trabajando. Con control de versiones se refiere a poder controlar todos los cambios que se realizan en dicho trabajo.
+
+2. Mencione y explique brevemente tres comandos utilizados en Git.
+Git init: este comando se utiliza para crear localmente un repositorio con GIT.
+Git commit -m: este comando se utiliza para agregar un mensaje al cambio realizado en el código.
+Git branch: nos muestra la lista de los branches que existen en nuestro repositorio.
